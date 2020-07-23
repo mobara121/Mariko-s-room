@@ -1,0 +1,62 @@
+.Header {
+  text-align: center;
+  margin-bottom: 70px;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+#Mariko{
+  margin: 50px 30px;
+  padding: 0px 20px;
+  font-size: 100px;
+  font-weight: 550;
+  font-family: HelloDaisy;
+}
+
+#bulldog {
+  width: 30%;
+}
+
+#heart{
+  width: 5%;
+  height: 50%;
+}
+
+.Home{
+  margin: 20px 0px;
+  padding: 50px;
+}
+
+#copymark{
+  margin: 30px auto;
+  padding: 10px;
+  text-align: center;
+
+}
+.title{
+  font-size: 50px;
+  font-weight: 600;
+  font-family: HelloDaisy;
+  text-align: center;
+}
+
+
+
+
